@@ -2,7 +2,7 @@
 
 - This is a simple ruby on rails application where I have generated simple api for books
 
-# How To Instal 
+# How To Install 
 
 clone this repo
 
