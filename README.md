@@ -1,24 +1,19 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- This is a simple ruby on rails application where I have generated simple api for books
 
-Things you may want to cover:
+# How To Instal 
 
-* Ruby version
+clone this repo
 
-* System dependencies
+run 
+- `rails db:migrate`
 
-* Configuration
+- `rails db:seed`
 
-* Database creation
+run the server with command
 
-* Database initialization
+- `rails s`
 
-* How to run the test suite
+go to http://localhost:3000/books route to see the list of books
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
