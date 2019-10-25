@@ -2,10 +2,8 @@
 
 one:
   author: one
-  genre: MyString
-  references: MyString
+  genre: one
 
 two:
   author: two
-  genre: MyString
-  references: MyString
+  genre: two
